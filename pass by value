@@ -1,0 +1,15 @@
+
+public class note {
+    int h=22;
+    String a="hiii";
+    char c='n';
+    double d=56.77;
+    public static void area(note a){
+        System.out.println(a.d);
+    } 
+    public static void main(String[] args){
+    note  a=new note();
+    int a1=10;
+    area(a);
+}
+}
